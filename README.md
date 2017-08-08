@@ -9,4 +9,6 @@ Put file in bitbar plugins folder:
 
 https://github.com/mohrt/bitbar-bitcoincash/blob/master/bitcoincash.1m.sh
 
+Make executable: chmod 755 bitcoincash.1m.sh
+
 Refresh all from bitbar menu.
