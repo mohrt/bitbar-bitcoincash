@@ -2,7 +2,7 @@
 
 #
 # <bitbar.title>BitcoinCash</bitbar.title>
-# <bitbar.version>v1.0</bitbar.version>
+# <bitbar.version>v1.1</bitbar.version>
 # <bitbar.author>Monte Ohrt</bitbar.author>
 # <bitbar.author.github>mohrt</bitbar.author.github>
 # <bitbar.desc>Simply shows the value of BitcoinCash in USD</bitbar.desc>
