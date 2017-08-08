@@ -16,4 +16,4 @@
 
 PATH=/usr/local/bin:$PATH
 
-wget -qO- https://api.coinmarketcap.com/v1/ticker/bitcoin-cash/ | grep price_usd | cut -f4 -d '"'
+curl -s https://api.coinmarketcap.com/v1/ticker/bitcoin-cash/ | grep price_usd | cut -f4 -d '"'
